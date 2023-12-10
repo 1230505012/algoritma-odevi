@@ -14,3 +14,4 @@ Verilen input ve output belgelerini indiriyoruz.
 1. Çözmek istediğimiz şifreyi **output**'un içine yazıyoruz.
 2. Programı 2. seçenek yani şifre çözme kısmını seçerek çalıştırıyoruz.
 3. Ekranda şifremizin metne dönüştürülmüş hali görünecektir ve aynı zamanda **input**'un içine kaydedilecektir
+![image](https://github.com/1230505012/algoritma-odevi/assets/153395450/7243e4cb-5523-4c30-9f8c-f8a9508bdd42)
