@@ -18,8 +18,8 @@ switch(secim)	//kullanıcıya şifre çözme ve şifre oluşturma için 2 seçen
 {
 	case 1:	//ŞİFRE OLUŞTURAN KISIM
 	{	
-		dosyainput=fopen("C:\\Users\\RESUL\\OneDrive\\Masaüstü\\input 1.txt","r");	//dosya konumları
-		dosyaoutput=fopen("C:\\Users\\RESUL\\OneDrive\\Masaüstü\\output 1.txt","w");	//dosya konumları
+		dosyainput=fopen("C:\\Users\\RESUL\\OneDrive\\Masaüstü\\input 1.txt","r");	//input dosya konumu
+		dosyaoutput=fopen("C:\\Users\\RESUL\\OneDrive\\Masaüstü\\output 1.txt","w");	//output dosya konumu
 		int karakter;
 	
 		printf("\nSifreniz:\n"); 
@@ -51,8 +51,8 @@ switch(secim)	//kullanıcıya şifre çözme ve şifre oluşturma için 2 seçen
 	break;
 	case 2: //ŞİFRE ÇÖZEN KISIM
 	{
-		dosyaoutput=fopen("C:\\Users\\RESUL\\OneDrive\\Masaüstü\\output 1.txt","r");	//dosya konumları
-		dosyainput=fopen("C:\\Users\\RESUL\\OneDrive\\Masaüstü\\input 1.txt","w");	//dosya konumları
+		dosyaoutput=fopen("C:\\Users\\RESUL\\OneDrive\\Masaüstü\\output 1.txt","r");	//input dosya konumu
+		dosyainput=fopen("C:\\Users\\RESUL\\OneDrive\\Masaüstü\\input 1.txt","w");	//output dosya konumu
 		int karakter;
 		
 		printf("\nMetniniz:\n");
